@@ -60,8 +60,8 @@ h2 {
 
 .header,
 .subcontent1 {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
     margin-bottom: 80px;
 }
 
@@ -131,7 +131,7 @@ li {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
-    padding: 80px 200px;
+    padding: 80px 250px;
     color: #1F2937;
 }
 
@@ -159,8 +159,8 @@ li {
     align-items: center;
     gap: 20px;
     background-color: #3882F6;
-    padding: 50px 100px;
-    margin: 100px 100px;
+    padding: 50px 50px;
+    margin: 100px 200px;
     color:#E5E7EB;
     flex-grow: 1;
     border-radius: 10px;
